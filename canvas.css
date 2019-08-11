@@ -1,0 +1,36 @@
+.divContainer {
+  height: 100vh;
+  width: 100vw;
+}
+
+.canvasContainer {
+  display: inline-block;
+  height: 100vh;
+  margin: 0 auto;
+  width: 100vw;
+}
+
+.canvas {
+  background: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 0 1vw;
+  height: 30%;
+  width: 30%;
+
+}
+
+input {
+  display: inline-block;
+  margin-bottom: 2vh;
+}
+
+#grayscale {
+  display: inline-block;
+}
+
+#greenscreen {
+  display: inline-block;
+  margin-left: 22vw;
+}
